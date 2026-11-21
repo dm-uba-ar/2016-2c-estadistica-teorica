@@ -1,24 +1,22 @@
-# Estadística Teorica — Segundo cuatrimestre de 2016
+# Estadística Teórica
 
-## Prácticas
+Las clases empiezan el lunes 8 de agosto
 
-- [Práctica 1](Practica1.pdf)
-- [Práctica 2](practica2.pdf)
-- [Práctica 3](Practica3.pdf)
-- [Práctica 4](practica4.pdf)
-- [Práctica 5](practica5.pdf)
-- [Práctica 6](practica6.pdf)
-- [Práctica 7](practica7.pdf)
-- [Práctica 8](Practica8.pdf)
+Primer parcial - Lunes 26 de septiembre, 17 hs.
 
-## Tablas
+temas teóricos parcial 1
 
-- [Tabla Wilcoxon 2 Horario y Aulas](tabla%20wilcoxon%202.pdf)
+Segundo parcial - Jueves 24 de noviembre, 17 hs.
 
-## Apuntes y notas
+temas teóricos parcial 2
 
-- [Notas de Estadística](Notas_de_Estadistica.pdf)
+Tabla Wilcoxon 1
 
-## Página original
+[Tabla Wilcoxon 2](tabla wilcoxon 2.pdf)
 
-[Página de la cursada en el CMS](https://cms.dm.uba.ar/academico/materias/2docuat2016/estadistica_teorica)
+### Horario y Aulas
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Teórica | Marina Valdora Lunes 17 a 19 hs - Jueves 17 a 19 hs | Aula | Instituto de Cálculo | |
+| Práctica | Susana Sombielle y Laura Cacheiro | Lunes 19 a 21 hs - Jueves 19 a  21 hs; | Aula | Instituto de Cálculo |
